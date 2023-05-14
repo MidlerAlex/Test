@@ -1,2 +1,4 @@
-ECHO is on.
 # Hello, World!
+asdasd
+adasdasd
+asdasdaa
